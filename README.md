@@ -8,5 +8,5 @@
 <p><sup>⠀i love talking to all people !!! dni if 14- tho. sorry </sup>
 </p>
 <picture>
- <img alt="legacy ms3 007n7" src="https://files.catbox.moe/yqkj47.png">
+ <img alt="legacy ms3 007n7" src="https://files.catbox.moe/07z5g0.png">
 </picture>
