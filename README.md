@@ -13,3 +13,4 @@
  <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/65cluo.png"width=35% height=35%>
  <img alt="legacy ms3 007n7" src="https://files.catbox.moe/65cluo.png"width=35% height=35%>
 </picture>
+<img src="https://komarev.com/ghpvc/?username=clubcrackers&style=flat&color=c999bd&label=<3" alt="view+counter"> 
