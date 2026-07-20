@@ -1,3 +1,4 @@
+<p><sub><sup>⠀︵⠀best viewed in light mode</sup></sub></p>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://files.catbox.moe/trnw1r.png"width=50% height=50%>
  <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/lcw4sv.png"width=50% height=50%>
